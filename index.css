@@ -1,0 +1,15 @@
+@font-face {
+  font-family: SVNRockness;
+  src: url(./SVN-Rockness.otf);
+}
+
+.sl_title {
+  font-size: 70px !important ;
+  line-height: 130px;
+  font-family: "SVNRockness"; 
+}
+.sl_title_sub {
+  line-height: 100px;
+  font-size: 80px !important ;
+  font-family: "SVNRockness";
+}
