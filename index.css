@@ -2,10 +2,19 @@
   font-family: SVNRockness;
   src: url(./9SLIDE06JOYFUL.ttf);
 }
-
+@font-face {
+  font-family: Futura_Light_font;
+  src: url(./font/Futura-CondensedLight.otf);
+}
+body {
+  font-family: "Futura_Light_font" !important;
+}
 .sl_title {
-  font-family: "SVNRockness"; 
+  font-family: "SVNRockness";
 }
 .sl_title_sub {
   font-family: "SVNRockness";
+}
+._people {
+  font-family: "SVNRockness" !important;
 }
