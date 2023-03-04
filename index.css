@@ -18,3 +18,17 @@ body {
 ._people {
   font-family: "SVNRockness" !important;
 }
+.title {
+  font-family: "SVNRockness" !important;
+}
+.special_thanks {
+  font-family: "SVNRockness" !important;
+}
+.img-wedding-event {
+  width: 200px;
+  height: 200px;
+  object-fit: cover
+}
+.ff-dieu{
+  font-family: "SVNRockness" !important;
+}
