@@ -32,3 +32,11 @@ body {
 .ff-dieu{
   font-family: "SVNRockness" !important;
 }
+.special_thanksa{
+  font-family: "SVNRockness" !important;
+  font-size: 144px !important;
+  line-height: 160px;
+  color: #1a3c68 !important;
+  opacity: .8;
+  margin-bottom: 12px;
+}
